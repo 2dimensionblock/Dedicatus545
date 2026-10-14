@@ -1,2 +1,3 @@
-# Dedicatus545
-A professional papers reading assistant with your AI models API
+#Dedicatus545 发布预说明
+Dedicatus545是一款能够辅助你整理、阅读、分析文献和论文写作的工具，允许用户通过API接入大模型
+此项目正在进行内部测试，尚未发布
